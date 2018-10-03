@@ -5,5 +5,10 @@
 * [README.md](https://github.com/geet084/Dog-Party/blob/master/README.md)
 * [index.html](https://github.com/geet084/Dog-Party/blob/master/index.html)
 * [styles.css](https://github.com/geet084/Dog-Party/blob/master/styles.css)
+* [Images used](https://github.com/geet084/Dog-Party/blob/master/images)
 
+# Contributors
+* Travis Gee
+* Matt Damon
+* Mother Theresa 
 
