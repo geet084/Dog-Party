@@ -2,8 +2,8 @@
 
 ### First project for Mod 1 based around writing clean code around a comp about dogs
 
-* README.md
-* index.html
-* styles.css
+* [README.md](https://github.com/geet084/Dog-Party/blob/master/README.md)
+* [index.html](https://github.com/geet084/Dog-Party/blob/master/index.html)
+* [styles.css](https://github.com/geet084/Dog-Party/blob/master/styles.css)
 
 
