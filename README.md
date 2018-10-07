@@ -11,7 +11,7 @@
 * Travis Gee
 
 ## My Comp
-* 
+* <img width="754" alt="dog-party-comp-tgee" src="https://user-images.githubusercontent.com/39391585/46586228-a16c2a80-ca38-11e8-930b-27c34bbd2f47.png">
 
 ## Original Comp
-* 
+* <img width="605" alt="dog-party-comp-original" src="https://user-images.githubusercontent.com/39391585/46586232-a5984800-ca38-11e8-9113-16ecdb46d407.png">
