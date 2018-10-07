@@ -7,8 +7,11 @@
 * [styles.css](https://github.com/geet084/Dog-Party/blob/master/styles.css)
 * [Images used](https://github.com/geet084/Dog-Party/blob/master/images)
 
-# Contributors
+# Contributor
 * Travis Gee
-* Matt Damon
-* Mother Theresa 
 
+## My Comp
+* 
+
+## Original Comp
+* 
