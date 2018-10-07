@@ -10,17 +10,8 @@
 # Contributor
 * Travis Gee
 
-<<<<<<< HEAD
 ## My Comp
 * 
 
 ## Original Comp
 * 
-=======
-* My comp 
-* 
-
-* Original comp
-* 
-
->>>>>>> 5a58cff9329da80a71583a539b5f1b584c66f43f
